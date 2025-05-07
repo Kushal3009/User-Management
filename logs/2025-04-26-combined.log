@@ -1,0 +1,53 @@
+[26 Apr, 2025 - 21:53:36:5336] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[26 Apr, 2025 - 21:53:36:5336] [34minfo[39m: [34mModel sync executed successfully.[39m
+[26 Apr, 2025 - 21:53:36:5336] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[27 Apr, 2025 - 13:23:56:2356] [31merror[39m: [31mInvalid token: jwt expired[39m
+[27 Apr, 2025 - 13:23:56:2356] [31merror[39m: [31mInvalid token: jwt expired[39m
+[27 Apr, 2025 - 13:24:04:244] [34minfo[39m: [34mUser logged in successfully[39m
+[27 Apr, 2025 - 13:24:05:245] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:05:245] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:05:245] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:05:245] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:19:2419] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:19:2419] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:19:2419] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:19:2419] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:19:2419] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:19:2419] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:27:2427] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:27:2427] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:24:27:2427] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:54:57:5457] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:54:57:5457] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:54:57:5457] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:55:53:5553] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:55:53:5553] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:55:53:5553] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:57:25:5725] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:57:25:5725] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 13:57:25:5725] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:00:46:046] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:00:46:046] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:00:46:046] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:00:52:052] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:00:52:052] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:02:27:227] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:02:27:227] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:02:28:228] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:02:28:228] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:03:08:38] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:03:08:38] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:08:33:833] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:11:23:1123] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:18:05:185] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:18:28:1828] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:24:16:2416] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:24:16:2416] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:24:16:2416] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:24:17:2417] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:24:27:2427] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:24:27:2427] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:25:14:2514] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:25:14:2514] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:26:21:2621] [34minfo[39m: [34mUser verified successfully[39m
+[27 Apr, 2025 - 14:26:21:2621] [34minfo[39m: [34mUser verified successfully[39m

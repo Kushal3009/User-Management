@@ -1,0 +1,35 @@
+[22 Apr, 2025 - 21:29:45:2945] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[22 Apr, 2025 - 21:29:45:2945] [34minfo[39m: [34mModel sync executed successfully.[39m
+[22 Apr, 2025 - 21:29:45:2945] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[22 Apr, 2025 - 21:29:47:2947] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[22 Apr, 2025 - 21:29:47:2947] [34minfo[39m: [34mModel sync executed successfully.[39m
+[22 Apr, 2025 - 21:29:47:2947] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[22 Apr, 2025 - 21:29:51:2951] [34minfo[39m: [34mLogin failed: Invalid credentials for email: kushalpadhiyar030@gmail.com[39m
+[22 Apr, 2025 - 21:30:04:304] [34minfo[39m: [34mUser logged in successfully[39m
+[22 Apr, 2025 - 21:30:05:305] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:30:05:305] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:30:43:3043] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:30:43:3043] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:30:49:3049] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:31:15:3115] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:31:48:3148] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:32:29:3229] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 21:32:47:3247] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:04:36:436] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:12:23:1223] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:17:18:1718] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:28:51:2851] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:40:48:4048] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:42:11:4211] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:43:25:4325] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:44:53:4453] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:46:29:4629] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:46:48:4648] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:48:19:4819] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:48:37:4837] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:50:54:5054] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:52:42:5242] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 22:53:24:5324] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 23:04:30:430] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 23:08:30:830] [34minfo[39m: [34mUser verified successfully[39m
+[22 Apr, 2025 - 23:09:52:952] [34minfo[39m: [34mUser verified successfully[39m

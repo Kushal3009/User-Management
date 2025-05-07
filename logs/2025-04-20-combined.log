@@ -1,0 +1,110 @@
+[20 Apr, 2025 - 18:37:08:378] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:37:08:378] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:37:18:3718] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:37:18:3718] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:37:34:3734] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:37:34:3734] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:37:34:3734] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:37:34:3734] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:38:08:388] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:38:08:388] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:38:08:388] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:38:08:388] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:38:14:3814] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:38:14:3814] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:38:14:3814] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:38:14:3814] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:38:19:3819] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:38:19:3819] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:38:19:3819] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:38:19:3819] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:39:03:393] [37mdebug[39m: [37mExecuting (c5bcaf8a4f3070271358): BEGIN TRANSACTION;[39m
+[20 Apr, 2025 - 18:39:03:393] [37mdebug[39m: [37mLogin attempt for email: kushalpadhiyar030@gmail.com[39m
+[20 Apr, 2025 - 18:39:03:393] [37mdebug[39m: [37mExecuting (default): SELECT [id], [username], [email], [password], [createdAt], [updatedAt] FROM [Users] AS [User] WHERE [User].[email] = N'kushalpadhiyar030@gmail.com';[39m
+[20 Apr, 2025 - 18:39:03:393] [34minfo[39m: [34mUser logged in successfully: kushalpadhiyar030@gmail.com[39m
+[20 Apr, 2025 - 18:39:43:3943] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:39:43:3943] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:39:43:3943] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:39:43:3943] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:01:401] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:40:01:401] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:01:401] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:01:401] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:04:404] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:40:04:404] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:04:404] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:05:405] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:09:409] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:40:09:409] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:09:409] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:09:409] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:15:4015] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:40:15:4015] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:15:4015] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:15:4015] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:22:4022] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:40:22:4022] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:22:4022] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:22:4022] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:38:4038] [37mdebug[39m: [37mExecuting (default): SELECT 1+1 AS result[39m
+[20 Apr, 2025 - 18:40:38:4038] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:38:4038] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:38:4038] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:54:4054] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:54:4054] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:54:4054] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:56:4056] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:56:4056] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:56:4056] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:40:58:4058] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:40:58:4058] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:40:58:4058] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:41:07:417] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 18:41:07:417] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 18:41:07:417] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 18:41:36:4136] [34minfo[39m: [34mUser logged in successfully[39m
+[20 Apr, 2025 - 19:03:27:327] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 19:03:27:327] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 19:03:27:327] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:16:44:1644] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:16:44:1644] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:16:44:1644] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:25:04:254] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:25:04:254] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:25:04:254] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:56:43:5643] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:56:43:5643] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:56:43:5643] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:58:19:5819] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:58:19:5819] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:58:19:5819] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:58:24:5824] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:58:24:5824] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:58:24:5824] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:58:42:5842] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:58:42:5842] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:58:42:5842] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 21:59:15:5915] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 21:59:15:5915] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 21:59:15:5915] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:02:02] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:02:02] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:02:02] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:04:04] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:04:04] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:04:04] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:39:039] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:39:039] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:39:039] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:45:045] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:45:045] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:45:045] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:49:049] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:49:049] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:49:049] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:54:054] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:54:054] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:54:054] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
+[20 Apr, 2025 - 22:00:58:058] [34minfo[39m: [34mConnection to MSSQL has been established successfully.[39m
+[20 Apr, 2025 - 22:00:58:058] [34minfo[39m: [34mModel sync executed successfully.[39m
+[20 Apr, 2025 - 22:00:58:058] [34minfo[39m: [34mServer is running on http://localhost:3002[39m
