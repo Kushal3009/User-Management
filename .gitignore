@@ -30,3 +30,7 @@ Thumbs.db
 # Miscellaneous
 *.bak
 *.tmp
+
+# Logs
+logs/
+*.log
